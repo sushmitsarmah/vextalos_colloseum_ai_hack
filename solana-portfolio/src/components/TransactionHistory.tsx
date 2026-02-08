@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/
 
 interface Transaction {
   signature: string
-  blockTime: number | null
+  blockTime: number | null | undefined
   status: string
   type: string
   amount: number

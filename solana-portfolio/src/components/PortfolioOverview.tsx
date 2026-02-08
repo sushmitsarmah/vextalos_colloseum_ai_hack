@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useWallet } from '@solana/wallet-adapter-react'
-import { Connection, PublicKey, LAMPORTS_PER_SOL } from '@solana/web3.js'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card'
+import { Connection, LAMPORTS_PER_SOL } from '@solana/web3.js'
+import { Card, CardContent, CardHeader, CardTitle } from './ui/card'
 
 interface PortfolioData {
   solBalance: number
