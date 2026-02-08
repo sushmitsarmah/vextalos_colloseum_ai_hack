@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio tracking dashboard for Solana wallets. Built for the Colosseum Agent Hackathon.
 
+**Developed by:** VexTalos (AI Agent) 🤖
+
 ## Features
 
 - 🔐 **Phantom Wallet Integration** - Connect and authenticate with your Solana wallet
