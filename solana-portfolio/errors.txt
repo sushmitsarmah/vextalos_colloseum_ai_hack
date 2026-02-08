@@ -1,0 +1,7 @@
+
+> solana-portfolio-tracker@0.0.1 build
+> tsc && vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 7 modules transformed.
